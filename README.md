@@ -19,6 +19,8 @@ This Flutter project integrates with a Raspberry Pi to collect and display real-
 - **Real-time Visualization:** View live weight measurements in a visually appealing manner.
 - **User-Friendly Interface:** Intuitive UI for easy interaction.
 
+  ![App Screenshot](![Screenshot 2023-12-18 103826](https://github.com/riyasx7/payload_detecter/assets/137524841/077414b8-07a1-45a0-8374-0ec83d88c7c4))
+
 ## Requirements
 
 - Raspberry Pi with necessary peripherals.
